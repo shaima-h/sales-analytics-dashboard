@@ -38,4 +38,8 @@ Represent the distribution of customers based on the number of orders they have 
 ### Data Filters
 Allow users to filter data by product information like category and subcateory and by location information like region, state, and city.
 
+## Dashboard Mockup
+![Dashboard Mockup](https://github.com/user-attachments/assets/19f085ab-77bc-4e9b-a576-27a9ef0f42c3)
+via [Data by Baraa](https://www.youtube.com/@DataWithBaraa)
+
 Tableau Course by [Data by Baraa](https://www.youtube.com/@DataWithBaraa)
